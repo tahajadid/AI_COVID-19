@@ -10,28 +10,28 @@ You can find it into my Youtube channel, and you can visit by cliking on the fol
 
 Use :
 
-1. __YOU NEED to download the file "shape_predictor_68_face_landmarks.dat" in the Link__ : 
+1. __YOU NEED to download the file "shape_predictor_68_face_landmarks.dat" in the Link :__ 
 
   https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
-2. __For more information about this library you can visit the following Link : 
+2. __For more information about this library you can visit the following Link :__ 
   
   https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
   
-3. __You need aldo to have OpenCV Library, it's simple to download it with some command line, this is the official website of OpenCV :
+3. __You need aldo to have OpenCV Library, it's simple to download it with some command line, this is the official website of OpenCV :__
   
   https://www.learnopencv.com/install-opencv-3-4-4-on-ubuntu-16-04/
   
-*I've 16.04 Ubuntu Version but it can work on the last version of Ubuntu 
+*I've 16.04 Ubuntu Version but it can work on the last version of Ubuntu* 
 
-4. __After all you just need to put in the same Folder that's mean the three files :
+4. __After all you just need to put in the same Folder that's mean the three files :__
 
   "haarcascade_frontalface_alt2.xml"
   "shape_predictor_68_face_landmarks.dat"
   "MaskDetect.py"
  
-5. __Go into your folder and open the Terminal
+5. __Go into your folder and open the Terminal__
 
-6. __Put the following command to Start the Magic 
+6. __Put the following command to Start the Magic__ 
  
  ==> python MaskDetect.py --shape-predictor shape_predictor_68_face_landmarks.dat
