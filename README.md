@@ -10,7 +10,7 @@ You can find it into my Youtube channel, and you can visit by cliking on the fol
 
 Use :
 
-1. __YOU NEED to download the file "shape_predictor_68_face_landmarks.dat" in the Link : 
+1. __YOU NEED to download the file "shape_predictor_68_face_landmarks.dat" in the Link__ : 
 
   https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
 
